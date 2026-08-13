@@ -15,7 +15,7 @@ Working Papers
 ======
 * [Offline Policy Learning with Weight Clipping and Heaviside Composite Optimization](https://arxiv.org/abs/2601.12117)  
 with Hanzhang Qin, Junyi Liu, Mabel Chou, Jong-Shi Pang    
-Under review at *Operations Research*
+Major revision at *Operations Research*
 
 * [Pricing Analytics with Shape-Restricted Demands](https://ssrn.com/abstract=4643942)  
 with Hanzhang Qin, Mabel Chou    
